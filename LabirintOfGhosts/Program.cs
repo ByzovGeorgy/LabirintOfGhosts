@@ -52,14 +52,14 @@ namespace LabirintOfGhosts
             width = int.Parse(reader.ReadLine());
             labirint = new int[width, width];
             marks = new bool[width, width];
-            char[] str = new char[width];
+            char[] cellsOfLabirint = new char[width];
             int count = 0;
             for (int i = 0; i < width; i++)
             {
-                str = reader.ReadLine().ToCharArray();
+                cellsOfLabirint = reader.ReadLine().ToCharArray();
                 for (int j = 0; j < width; j++)
                 {
-                    if (str[j].Equals('.'))
+                    if (cellsOfLabirint[j].Equals('.'))
                         labirint[i, j] = 0;
                     else
                     {
