@@ -1,0 +1,6 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\LabirintOfGhosts\LabirintOfGhosts\bin\Debug\LabirintOfGhosts.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\LabirintOfGhosts\LabirintOfGhosts\bin\Debug\LabirintOfGhosts.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\LabirintOfGhosts\LabirintOfGhosts\bin\Debug\LabirintOfGhosts.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\LabirintOfGhosts\LabirintOfGhosts\obj\Debug\LabirintOfGhosts.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\LabirintOfGhosts\LabirintOfGhosts\obj\Debug\LabirintOfGhosts.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\LabirintOfGhosts\LabirintOfGhosts\obj\Debug\LabirintOfGhosts.pdb
